@@ -11,4 +11,3 @@
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
